@@ -1,0 +1,15 @@
+git config --global user.name "Ваш ник"
+git config --global user.email "почта"
+
+
+git config --list
+
+git status
+
+
+git init
+
+
+git add .
+
+sda
